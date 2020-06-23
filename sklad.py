@@ -5,7 +5,7 @@ with open('NEW.csv', encoding='utf-8') as csv_file: # file from Injazz with data
     csv_reader = csv.reader(csv_file, delimiter=';')
     with open("injazz2import.csv", "w", encoding='utf-8', newline='') as import_file:
         fieldnames = ['Артикул', 'Цена', 'Наличие', 'Поставщик']
-        writer = csv.DictWriter(import_file, fieldnames=fieldnames, delimiter=';')
+        writer = csv.DictWriter(import_file, fieldnames=fieldnames, delimiter=',')
 
         writer.writeheader()
         # row[5] - price, row[1] - article. if article or price is empty - skip, is price lower than 3 - skip
