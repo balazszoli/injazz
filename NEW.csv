@@ -436,7 +436,7 @@
 "Акустическая гитара YAMAHA FG800 M NATURAL";"104929";"FG800 M NATURAL";"YAMAHA";"есть";"8283";
 "Акустическая гитара YAMAHA FG800 NATURAL";"104925";"FG800 NATURAL";"YAMAHA";"есть";"8514";
 "Акустическая гитара YAMAHA FG800 SAND BURST";"104927";"FG800 SAND BURST";"YAMAHA";"есть";"8514";
-"Акустическая гитара YAMAHA FG820 AUTUMN BURST";"104924";"FG820 AUTUMN BURST";"YAMAHA";"есть";"9801";
+"Акустическая гитара YAMAHA FG820 AUTUMN BURST";"104924";"FG820 AUTUMN BURST";"YAMAHA";"нет";"9801";
 "Акустическая гитара YAMAHA FG820 BLACK";"104921";"FG820 BLACK";"YAMAHA";"нет";"9801";
 "Акустическая гитара YAMAHA FG820 BROWN SUNBURST";"104922";"FG820 BROWN SUNBURST";"YAMAHA";"нет";"9801";
 "Акустическая гитара YAMAHA FG820 NATURAL";"104920";"FG820 NATURAL";"YAMAHA";"нет";"9801";
@@ -992,6 +992,7 @@
 "Акустическая система YAMAHA DXR8";"121550";"DXR8";"YAMAHA";"нет";"29151";
 "Акустическая система YAMAHA DXR8MKII";"125968";"DXR8MKII";"YAMAHA";"есть";"18972";
 "Акустическая система YAMAHA DXS12";"121552";"DXS12";"YAMAHA";"нет";"31752";
+"Акустическая система YAMAHA DXS12MKII";"126303";"DXS12MKII";"YAMAHA";"нет";"23784";
 "Акустическая система YAMAHA DXS15";"121553";"DXS15";"YAMAHA";"нет";"35625";
 "Акустическая система YAMAHA DXS15MKII";"126184";"DXS15MKII";"YAMAHA";"есть";"26739";
 "Акустическая система YAMAHA DXS15XLF";"124115";"DXS15XLF";"YAMAHA";"есть";"41007";
@@ -1353,7 +1354,7 @@
 "Банкетка Petrof M-105 Capitone";"102891";"M-105 Capitone";"Petrof";"нет";"16476";
 "Банкетка Petrof M-105 Profesional";"102896";"M-105 Profesional";"Petrof";"нет";"17988";
 "Банкетка Petrof M-105-0001";"102912";"M-105-0001";"Petrof";"нет";"10164";
-"Банкетка Petrof M-105-0801";"102915";"M-105-0801";"Petrof";"есть";"10164";
+"Банкетка Petrof M-105-0801";"102915";"M-105-0801";"Petrof";"нет";"10164";
 "Банкетка Petrof M-105-2251";"102907";"M-105-2251";"Petrof";"нет";"10164";
 "Банкетка Petrof M-105-2357";"102914";"M-105-2357";"Petrof";"нет";"10188";
 "Банкетка Petrof M-107-0001";"102909";"M-107-0001";"Petrof";"нет";"11664";
@@ -1698,7 +1699,7 @@
 "Барабанные палочки Regal Tip RN-125NTX 5BX";"115678";"RN-125NTX 5BX";"Regal Tip";"нет";"348";
 "Барабанные палочки Regal Tip RN-BST-EX Blast Mallet-EX";"115606";"RN-BST-EX Blast Mallet-EX";"Regal Tip";"есть";"1200";
 "Барабанные палочки Regal Tip RN-DTH-EX Death-EX";"115679";"RN-DTH-EX Death-EX";"Regal Tip";"нет";"348";
-"Барабанные палочки Regal Tip RN-GRD-EX Grind-EX";"115680";"RN-GRD-EX Grind-EX";"Regal Tip";"есть";"348";
+"Барабанные палочки Regal Tip RN-GRD-EX Grind-EX";"115680";"RN-GRD-EX Grind-EX";"Regal Tip";"нет";"348";
 "Барабанные палочки Regal Tip RN-SPD-EX Speed-EX";"115681";"RN-SPD-EX Speed-EX";"Regal Tip";"есть";"348";
 "Барабанные палочки Regal Tip RS-801W Jazz";"115615";"RS-801W Jazz";"Regal Tip";"нет";"132";
 "Барабанные палочки Regal Tip RS-805N";"115607";"RS-805N";"Regal Tip";"нет";"132";
@@ -2088,7 +2089,7 @@
 "Бас-гитара Stagg BF400-BK";"108754";"BF400-BK";"Stagg";"нет";"6240";
 "Бас-гитара Stagg BG400-CH-";"116567";"BG400-CH-";"Stagg";"нет";"6210";
 "Бас-гитара Stagg BM370-";"116559";"BM370-";"Stagg";"нет";"7644";
-"Бас-гитара Stagg MB300 BK";"101142";"MB300 BK";"Stagg";"нет";"6498";
+"Бас-гитара Stagg MB300 BK";"101142";"MB300 BK";"Stagg";"есть";"6498";
 "Бас-гитара Stagg MB300 N";"108740";"MB300 N";"Stagg";"нет";"6750";
 "Бас-гитара Stagg MB300 SB";"108741";"MB300 SB";"Stagg";"нет";"6498";
 "Бас-гитара Stagg MB300/5 N";"108742";"MB300/5 N";"Stagg";"нет";"6774";
@@ -3215,7 +3216,7 @@
 "Дарбука Stagg ALM.HB20";"108541";"ALM.HB20";"Stagg";"нет";"1776";
 "Дарбука Stagg ALM.PL15";"108537";"ALM.PL15";"Stagg";"есть";"924";
 "Дарбука Stagg ALM.PL17";"108538";"ALM.PL17";"Stagg";"есть";"1140";
-"Дарбука Stagg ALM.PL20";"108539";"ALM.PL20";"Stagg";"есть";"1236";
+"Дарбука Stagg ALM.PL20";"108539";"ALM.PL20";"Stagg";"нет";"1236";
 "Дарбука Stagg EGY.BK22";"108542";"EGY.BK22";"Stagg";"нет";"4314";
 "Датчик YAMAHA B-1D-";"112865";"B-1D-";"YAMAHA";"нет";"7245";
 "Датчик YAMAHA DT10";"122073";"DT10";"YAMAHA";"есть";"822";
@@ -4627,7 +4628,7 @@
 "Кабель микрофонный Stagg NMC10XX";"122808";"NMC10XX";"Stagg";"нет";"576";
 "Кабель микрофонный Stagg NMC1R";"122665";"NMC1R";"Stagg";"есть";"234";
 "Кабель микрофонный Stagg NMC1XX";"122816";"NMC1XX";"Stagg";"нет";"192";
-"Кабель микрофонный Stagg NMC3R";"122666";"NMC3R";"Stagg";"есть";"318";
+"Кабель микрофонный Stagg NMC3R";"122666";"NMC3R";"Stagg";"нет";"318";
 "Кабель микрофонный Stagg NMC3XX";"101086";"NMC3XX";"Stagg";"нет";"276";
 "Кабель микрофонный Stagg NMC6R";"122667";"NMC6R";"Stagg";"есть";"480";
 "Кабель микрофонный Stagg NMC6XP";"122772";"NMC6XP";"Stagg";"нет";"420";
@@ -4638,7 +4639,7 @@
 "Кабель микрофонный Stagg SMC3";"122846";"SMC3";"Stagg";"есть";"150";
 "Кабель микрофонный Stagg SMC3 RD";"101201";"SMC3 RD";"Stagg";"нет";"150";
 "Кабель микрофонный Stagg SMC3 YW";"101202";"SMC3 YW";"Stagg";"нет";"150";
-"Кабель микрофонный Stagg SMC3XP";"101158";"SMC3XP";"Stagg";"есть";"126";
+"Кабель микрофонный Stagg SMC3XP";"101158";"SMC3XP";"Stagg";"нет";"126";
 "Кабель микрофонный Stagg SMC6";"122848";"SMC6";"Stagg";"есть";"210";
 "Кабель микрофонный Stagg SMC6 BL";"101203";"SMC6 BL";"Stagg";"есть";"222";
 "Кабель микрофонный Stagg SMC6 GR";"117768";"SMC6 GR";"Stagg";"нет";"222";
@@ -5149,7 +5150,7 @@
 "Клавинова YAMAHA H01 VR";"121758";"H01 VR";"YAMAHA";"нет";"300897";
 "Клавинова YAMAHA R01";"121728";"R01";"YAMAHA";"нет";"210618";
 "Клавинова YAMAHA YDP-103B";"125193";"YDP-103B";"YAMAHA";"есть";"24390";
-"Клавинова YAMAHA YDP-103R";"104957";"YDP-103R";"YAMAHA";"есть";"24390";
+"Клавинова YAMAHA YDP-103R";"104957";"YDP-103R";"YAMAHA";"нет";"24390";
 "Клавинова YAMAHA YDP-131 C-";"115533";"YDP-131 C-";"YAMAHA";"нет";"0,01";
 "Клавинова YAMAHA YDP-131-";"115532";"YDP-131-";"YAMAHA";"нет";"0,01";
 "Клавинова YAMAHA YDP-135R-";"119708";"YDP-135R-";"YAMAHA";"нет";"37458";
@@ -5182,7 +5183,7 @@
 "Клавинова YAMAHA YDP-163WA";"101614";"YDP-163WA";"YAMAHA";"нет";"37077";
 "Клавинова YAMAHA YDP-163WH";"101609";"YDP-163WH";"YAMAHA";"нет";"37077";
 "Клавинова YAMAHA YDP-164B";"125197";"YDP-164B";"YAMAHA";"нет";"38301";
-"Клавинова YAMAHA YDP-164R";"125198";"YDP-164R";"YAMAHA";"есть";"38301";
+"Клавинова YAMAHA YDP-164R";"125198";"YDP-164R";"YAMAHA";"нет";"38301";
 "Клавинова YAMAHA YDP-164WA";"125199";"YDP-164WA";"YAMAHA";"ожидается";"38301";
 "Клавинова YAMAHA YDP-164WH";"125200";"YDP-164WH";"YAMAHA";"есть";"38301";
 "Клавинова YAMAHA YDP-181-";"115416";"YDP-181-";"YAMAHA";"нет";"60165";
@@ -5296,7 +5297,7 @@
 "Классическая гитара 3/4 Stagg C837 S";"122926";"C837 S";"Stagg";"нет";"7200";
 "Классическая гитара 3/4 Stagg C937 S-N-";"101890";"C937 S-N-";"Stagg";"нет";"7374";
 "Классическая гитара 3/4 Stagg LC34-";"101888";"LC34-";"Stagg";"нет";"2010";
-"Классическая гитара 3/4 YAMAHA CS-40";"106906";"CS-40";"YAMAHA";"есть";"3822";
+"Классическая гитара 3/4 YAMAHA CS-40";"106906";"CS-40";"YAMAHA";"нет";"3822";
 "Классическая гитара ALVERA ACG300 4/4";"125693";"ACG300 4/4";"ALVERA";"есть";"5643";
 "Классическая гитара SpongeBob SBJGOFT";"102763";"SBJGOFT";"SpongeBob";"нет";"1080";
 "Классическая гитара Stagg C1147 S-CED";"122938";"C1147 S-CED";"Stagg";"нет";"7704";
@@ -7113,7 +7114,7 @@
 "Микрофон динамический JTS TM-989 Б/У";"116335";"TM-989 Б/У";"JTS";"нет";"588";
 "Микрофон динамический JTS TX-2";"114807";"TX-2";"JTS";"нет";"1278";
 "Микрофон динамический JTS TX-6";"114808";"TX-6";"JTS";"есть";"1170";
-"Микрофон динамический JTS TX-8";"114809";"TX-8";"JTS";"есть";"804";
+"Микрофон динамический JTS TX-8";"114809";"TX-8";"JTS";"нет";"804";
 "Микрофон динамический JTS UDM-626-";"100364";"UDM-626-";"JTS";"нет";"264";
 "Микрофон динамический вокальный Audio-Technica ATM-61HE";"110100";"ATM-61HE";"Audio-Technica";"нет";"4806";
 "Микрофон для аккордеона JTS CX-516";"114836";"CX-516";"JTS";"нет";"2412";
@@ -7323,7 +7324,7 @@
 "Микрофон петличный Audio-Technica AT899cW";"106649";"AT899cW";"Audio-Technica";"нет";"8148";
 "Микрофон петличный Audio-Technica AT899cW-TH";"106650";"AT899cW-TH";"Audio-Technica";"есть";"6804";
 "Микрофон петличный Audio-Technica ATR3350";"110245";"ATR3350";"Audio-Technica";"есть";"1152";
-"Микрофон петличный Audio-Technica ATR3350IS";"110062";"ATR3350IS";"Audio-Technica";"есть";"1344";
+"Микрофон петличный Audio-Technica ATR3350IS";"110062";"ATR3350IS";"Audio-Technica";"нет";"1344";
 "Микрофон петличный Audio-Technica ATR35cW";"106643";"ATR35cW";"Audio-Technica";"есть";"1512";
 "Микрофон петличный Audio-Technica BP896";"115791";"BP896";"Audio-Technica";"нет";"13974";
 "Микрофон петличный Audio-Technica BP896-TH";"115792";"BP896-TH";"Audio-Technica";"нет";"13974";
@@ -7648,7 +7649,7 @@
 "Мультикор Hotwires SNK204100";"116249";"SNK204100";"Hotwires";"нет";"12852";
 "Мультикор Hotwires SNK20450";"116250";"SNK20450";"Hotwires";"нет";"9630";
 "Мультикор Hotwires SNK244100";"116251";"SNK244100";"Hotwires";"нет";"15192";
-"Мультикор Hotwires SNK24450";"116252";"SNK24450";"Hotwires";"нет";"10716";
+"Мультикор Hotwires SNK24450";"116252";"SNK24450";"Hotwires";"есть";"10716";
 "Мультикор Hotwires SNK84100";"116253";"SNK84100";"Hotwires";"нет";"6450";
 "Мультикор Hotwires SNK8450";"116254";"SNK8450";"Hotwires";"нет";"4728";
 "Мультикор KLOTZ OW08-";"109267";"OW08-";"KLOTZ";"нет";"348";
@@ -8280,12 +8281,12 @@
 "Наушники Audio-Technica ATH-E70";"110058";"ATH-E70";"Audio-Technica";"нет";"12600";
 "Наушники Audio-Technica ATH-es55BK";"110079";"ATH-es55BK";"Audio-Technica";"нет";"3828";
 "Наушники Audio-Technica ATH-M20-";"109915";"ATH-M20-";"Audio-Technica";"нет";"1704";
-"Наушники Audio-Technica ATH-M20X";"110140";"ATH-M20X";"Audio-Technica";"есть";"1617";
+"Наушники Audio-Technica ATH-M20X";"110140";"ATH-M20X";"Audio-Technica";"нет";"1617";
 "Наушники Audio-Technica ATH-M30-";"109913";"ATH-M30-";"Audio-Technica";"нет";"2208";
 "Наушники Audio-Technica ATH-M30X";"110141";"ATH-M30X";"Audio-Technica";"нет";"2277";
 "Наушники Audio-Technica ATH-M35-";"109914";"ATH-M35-";"Audio-Technica";"нет";"3354";
 "Наушники Audio-Technica ATH-M40fs-";"109911";"ATH-M40fs-";"Audio-Technica";"нет";"3444";
-"Наушники Audio-Technica ATH-M40X";"110142";"ATH-M40X";"Audio-Technica";"нет";"3264";
+"Наушники Audio-Technica ATH-M40X";"110142";"ATH-M40X";"Audio-Technica";"есть";"3264";
 "Наушники Audio-Technica ATH-M50-";"109909";"ATH-M50-";"Audio-Technica";"нет";"5388";
 "Наушники Audio-Technica ATH-M50RD-";"115239";"ATH-M50RD-";"Audio-Technica";"нет";"5964";
 "Наушники Audio-Technica ATH-M50s-";"109910";"ATH-M50s-";"Audio-Technica";"есть";"6492";
@@ -8343,7 +8344,7 @@
 "Наушники YAMAHA HPH-MT5W";"101868";"HPH-MT5W";"YAMAHA";"нет";"2976";
 "Наушники YAMAHA HPH-MT7";"101871";"HPH-MT7";"YAMAHA";"нет";"5832";
 "Наушники YAMAHA HPH-MT7W";"101870";"HPH-MT7W";"YAMAHA";"есть";"5832";
-"Наушники YAMAHA RH-5MA";"122010";"RH-5MA";"YAMAHA";"есть";"2391";
+"Наушники YAMAHA RH-5MA";"122010";"RH-5MA";"YAMAHA";"нет";"2391";
 "Нить Marca 5 TD13";"119562";"5 TD13";"Marca";"нет";"516";
 "Нож Marca 5 TD08";"119557";"5 TD08";"Marca";"нет";"1410";
 "Нож Marca 5 TD09";"119558";"5 TD09";"Marca";"нет";"2460";
@@ -8466,6 +8467,8 @@
 "Очиститель мундштука YAMAHA MP SWAB FOR BI S";"121465";"MP SWAB FOR BI S";"YAMAHA";"нет";"420";
 "Очиститель мундштука YAMAHA MP SWAB FOR BI S POLYESTER";"121466";"MP SWAB FOR BI S POLYESTER";"YAMAHA";"нет";"477";
 "Очиститель тоновых отверстий YAMAHA TONE HOLE CLEANER";"107325";"TONE HOLE CLEANER";"YAMAHA";"есть";"69";
+"П Клавинова YAMAHA CLP-635WH-П";"126304";"CLP-635WH-П";"YAMAHA";"нет";"55506";
+"П Электрогитара YAMAHA PAC012 BL-П";"126305";"PAC012 BL-П";"YAMAHA";"нет";"6183";
 "Пакет Stagg PLASTIC BAG-";"117409";"PLASTIC BAG-";"Stagg";"нет";"24";
 "Палочка / колотушка Regal Tip SS-RTH-CMW";"113186";"SS-RTH-CMW";"Regal Tip";"нет";"1002";
 "Палочки (маллеты) Regal Tip SS-RTH-CMN";"113185";"SS-RTH-CMN";"Regal Tip";"есть";"1002";
@@ -8878,7 +8881,7 @@
 "Пианино YAMAHA JU109 PE";"122020";"JU109 PE";"YAMAHA";"есть";"102060";
 "Пианино YAMAHA JU109 PM";"122022";"JU109 PM";"YAMAHA";"нет";"119637";
 "Пианино YAMAHA JU109 PW";"122021";"JU109 PW";"YAMAHA";"нет";"119637";
-"Пианино YAMAHA JU109 PWH";"121690";"JU109 PWH";"YAMAHA";"нет";"129843";
+"Пианино YAMAHA JU109 PWH";"121690";"JU109 PWH";"YAMAHA";"есть";"129843";
 "Пианино YAMAHA JU109 SG2 PE";"105074";"JU109 SG2 PE";"YAMAHA";"нет";"157059";
 "Пианино YAMAHA JU109 SNC-";"109547";"JU109 SNC-";"YAMAHA";"нет";"125097";
 "Пианино YAMAHA JU109-Silent PE-";"109572";"JU109-Silent PE-";"YAMAHA";"нет";"146685";
@@ -9297,7 +9300,7 @@
 "Подставка JTS ST-5030";"114856";"ST-5030";"JTS";"есть";"1410";
 "Подставка JTS ST-5030i";"116342";"ST-5030i";"JTS";"нет";"1842";
 "Подставка JTS ST-5050-";"100366";"ST-5050-";"JTS";"нет";"2082";
-"Подставка JTS ST-5050i";"114873";"ST-5050i";"JTS";"нет";"2334";
+"Подставка JTS ST-5050i";"114873";"ST-5050i";"JTS";"есть";"2334";
 "Подставка JTS ST-5070";"114857";"ST-5070";"JTS";"нет";"840";
 "Подставка JTS ST-5071";"114858";"ST-5071";"JTS";"нет";"756";
 "Подставка KUSTOM KSS1-";"118594";"KSS1-";"KUSTOM";"нет";"1614";
@@ -9426,7 +9429,7 @@
 "Подставка для гитары универсальная Stagg SG-A100 CR";"117711";"SG-A100 CR";"Stagg";"нет";"534";
 "Подставка для гитары универсальная Stagg SG-A100 H BK";"117715";"SG-A100 H BK";"Stagg";"нет";"354";
 "Подставка для гитары универсальная Stagg SG-A100 P BK";"117726";"SG-A100 P BK";"Stagg";"нет";"258";
-"Подставка для гитары универсальная Stagg SG-A108BK";"117580";"SG-A108BK";"Stagg";"нет";"336";
+"Подставка для гитары универсальная Stagg SG-A108BK";"117580";"SG-A108BK";"Stagg";"есть";"336";
 "Подставка для гитары универсальная Stagg SG-A200 BK";"117727";"SG-A200 BK";"Stagg";"нет";"564";
 "Подставка для двух саксофонов On-Stage Stands SXS7201B";"116147";"SXS7201B";"On-Stage Stands";"нет";"906";
 "Подставка для духовых инструментов Stagg WIS-A31";"111088";"WIS-A31";"Stagg";"нет";"318";
@@ -9444,7 +9447,7 @@
 "Подставка для конго Stagg DJS";"108557";"DJS";"Stagg";"нет";"4932";
 "Подставка для контрабаса Stagg SV-DB";"123070";"SV-DB";"Stagg";"нет";"1488";
 "Подставка для малого барабана YAMAHA SS850";"115311";"SS850";"YAMAHA";"нет";"3501";
-"Подставка для микшерного пульта On-Stage Stands MIX400";"116001";"MIX400";"On-Stage Stands";"нет";"2502";
+"Подставка для микшерного пульта On-Stage Stands MIX400";"116001";"MIX400";"On-Stage Stands";"есть";"2502";
 "Подставка для микшерного пульта Stagg MXS-2H";"117533";"MXS-2H";"Stagg";"есть";"1740";
 "Подставка для микшерного пульта Stagg MXS-A1";"117531";"MXS-A1";"Stagg";"нет";"1260";
 "Подставка для микшерного пульта Stagg MXS-A3";"117532";"MXS-A3";"Stagg";"нет";"1344";
@@ -9481,7 +9484,7 @@
 "Подставка для синтезатора On-Stage Stands KS7100";"102415";"KS7100";"On-Stage Stands";"нет";"1506";
 "Подставка для синтезатора On-Stage Stands KS7150";"102416";"KS7150";"On-Stage Stands";"нет";"1788";
 "Подставка для синтезатора On-Stage Stands KS7171";"125714";"KS7171";"On-Stage Stands";"нет";"828";
-"Подставка для синтезатора On-Stage Stands KS7190";"102417";"KS7190";"On-Stage Stands";"нет";"558";
+"Подставка для синтезатора On-Stage Stands KS7190";"102417";"KS7190";"On-Stage Stands";"есть";"558";
 "Подставка для синтезатора On-Stage Stands KS7191";"102418";"KS7191";"On-Stage Stands";"нет";"870";
 "Подставка для синтезатора On-Stage Stands KS7290";"102419";"KS7290";"On-Stage Stands";"нет";"1596";
 "Подставка для синтезатора On-Stage Stands KS7291";"102420";"KS7291";"On-Stage Stands";"нет";"1890";
@@ -9501,7 +9504,7 @@
 "Подставка для синтезатора On-Stage Stands KS8191XX";"102430";"KS8191XX";"On-Stage Stands";"нет";"924";
 "Подставка для синтезатора On-Stage Stands KS8191XX-акция";"116187";"KS8191XX-акция";"On-Stage Stands";"нет";"408";
 "Подставка для синтезатора On-Stage Stands KS8290X";"102431";"KS8290X";"On-Stage Stands";"нет";"1176";
-"Подставка для синтезатора On-Stage Stands KS8291XX";"102432";"KS8291XX";"On-Stage Stands";"нет";"1818";
+"Подставка для синтезатора On-Stage Stands KS8291XX";"102432";"KS8291XX";"On-Stage Stands";"есть";"1818";
 "Подставка для синтезатора On-Stage Stands KS8390X";"102433";"KS8390X";"On-Stage Stands";"нет";"696";
 "Подставка для синтезатора On-Stage Stands KS8391XX";"102434";"KS8391XX";"On-Stage Stands";"нет";"924";
 "Подставка для синтезатора On-Stage Stands KSA7500";"102435";"KSA7500";"On-Stage Stands";"нет";"756";
@@ -9760,7 +9763,7 @@
 "Программное обеспечение Steinberg Cubase Pro 10 EE";"124415";"Cubase Pro 10 EE";"Steinberg";"нет";"11901";
 "Программное обеспечение Steinberg Cubase Pro 10 Retail";"124418";"Cubase Pro 10 Retail";"Steinberg";"нет";"19182";
 "Программное обеспечение Steinberg Cubase Pro 10.5 EE";"126116";"Cubase Pro 10.5 EE";"Steinberg";"есть";"9564";
-"Программное обеспечение Steinberg Cubase Pro 10.5 Retail";"126110";"Cubase Pro 10.5 Retail";"Steinberg";"нет";"15420";
+"Программное обеспечение Steinberg Cubase Pro 10.5 Retail";"126110";"Cubase Pro 10.5 Retail";"Steinberg";"есть";"15420";
 "Программное обеспечение Steinberg Cubase Pro 8 EE-";"111941";"Cubase Pro 8 EE-";"Steinberg";"нет";"10920";
 "Программное обеспечение Steinberg Cubase Pro 8 Retail-";"111857";"Cubase Pro 8 Retail-";"Steinberg";"нет";"18228";
 "Программное обеспечение Steinberg Cubase Pro 8.5 EE-";"111928";"Cubase Pro 8.5 EE-";"Steinberg";"нет";"10920";
@@ -11052,7 +11055,7 @@
 "Синтезатор YAMAHA PSR-S970";"121751";"PSR-S970";"YAMAHA";"нет";"51030";
 "Синтезатор YAMAHA PSR-S975";"123648";"PSR-S975";"YAMAHA";"нет";"50178";
 "Синтезатор YAMAHA PSR-SX700";"125614";"PSR-SX700";"YAMAHA";"нет";"38928";
-"Синтезатор YAMAHA PSR-SX900";"125760";"PSR-SX900";"YAMAHA";"есть";"55212";
+"Синтезатор YAMAHA PSR-SX900";"125760";"PSR-SX900";"YAMAHA";"нет";"55212";
 "Синтезатор YAMAHA PSS-A50";"125613";"PSS-A50";"YAMAHA";"нет";"3450";
 "Синтезатор YAMAHA PSS-E30";"125612";"PSS-E30";"YAMAHA";"нет";"2202";
 "Синтезатор YAMAHA PSS-F30";"125759";"PSS-F30";"YAMAHA";"нет";"2202";
@@ -11071,7 +11074,7 @@
 "Синтезатор YAMAHA TYROS4-";"117015";"TYROS4-";"YAMAHA";"нет";"0,01";
 "Синтезатор YAMAHA TYROS5-61";"121673";"TYROS5-61";"YAMAHA";"ожидается";"153090";
 "Синтезатор YAMAHA TYROS5-76";"105129";"TYROS5-76";"YAMAHA";"ожидается";"161598";
-"Синтезатор YAMAHA YPT-260";"101859";"YPT-260";"YAMAHA";"есть";"5658";
+"Синтезатор YAMAHA YPT-260";"101859";"YPT-260";"YAMAHA";"нет";"5658";
 "Синтезатор YAMAHA YPT-360";"101860";"YPT-360";"YAMAHA";"нет";"7116";
 "Синтезатор ударных YAMAHA DD-35-";"112810";"DD-35-";"YAMAHA";"нет";"0,01";
 "Синтезатор ударных YAMAHA DD-45-";"115492";"DD-45-";"YAMAHA";"нет";"6042";
@@ -11169,7 +11172,7 @@
 "Слайдер Ernie Ball Inc. P04228";"116488";"P04228";"Ernie Ball Inc.";"есть";"318";
 "Слайдер Ernie Ball Inc. P04229";"116489";"P04229";"Ernie Ball Inc.";"есть";"360";
 "Слайдер Ernie Ball Inc. P04234";"116463";"P04234";"Ernie Ball Inc.";"есть";"192";
-"Слайдер Ernie Ball Inc. P04235";"116464";"P04235";"Ernie Ball Inc.";"есть";"252";
+"Слайдер Ernie Ball Inc. P04235";"116464";"P04235";"Ernie Ball Inc.";"нет";"252";
 "Слайдер Stagg SGS-M";"117782";"SGS-M";"Stagg";"нет";"150";
 "Слайдер для гитары Stagg SGS-L";"123607";"SGS-L";"Stagg";"нет";"138";
 "Слайдер для гитары Stagg SGS-S";"123606";"SGS-S";"Stagg";"нет";"138";
@@ -11496,7 +11499,7 @@
 "Сплиттер JTS USP-900";"101347";"USP-900";"JTS";"есть";"924";
 "Сплиттеры Audio-Technica ATW-49SP";"106664";"ATW-49SP";"Audio-Technica";"нет";"11706";
 "Средний ""Журавль"" Stagg MIS-BMM BK";"117751";"MIS-BMM BK";"Stagg";"нет";"360";
-"Средство YAMAHA MOUTHPIECE CLEANER";"107289";"MOUTHPIECE CLEANER";"YAMAHA";"есть";"264";
+"Средство YAMAHA MOUTHPIECE CLEANER";"107289";"MOUTHPIECE CLEANER";"YAMAHA";"нет";"264";
 "Средство YAMAHA MOUTHPIECE CLEANER 100ML";"121422";"MOUTHPIECE CLEANER 100ML";"YAMAHA";"есть";"264";
 "Средство YAMAHA OIL GREASE CLEANER";"107290";"OIL GREASE CLEANER";"YAMAHA";"есть";"306";
 "Средство для очистки металла YAMAHA BRASS SOAP";"107285";"BRASS SOAP";"YAMAHA";"есть";"129";
@@ -11738,7 +11741,7 @@
 "Струна для электро/акустической гитары Stagg PLS-010";"117872";"PLS-010";"Stagg";"нет";"9";
 "Струна для электро/акустической гитары Stagg PLS-011";"117873";"PLS-011";"Stagg";"нет";"15";
 "Струна для электро/акустической гитары Stagg PLS-012";"117874";"PLS-012";"Stagg";"нет";"15";
-"Струна одиночная ак. гит .020 Ernie Ball Inc. P01420";"103040";"P01420";"Ernie Ball Inc.";"есть";"48";
+"Струна одиночная ак. гит .020 Ernie Ball Inc. P01420";"103040";"P01420";"Ernie Ball Inc.";"нет";"48";
 "Струна одиночная ак. гит .022 Ernie Ball Inc. P01422";"103041";"P01422";"Ernie Ball Inc.";"нет";"48";
 "Струна одиночная ак. гит .024 Ernie Ball Inc. P01424";"116509";"P01424";"Ernie Ball Inc.";"есть";"48";
 "Струна одиночная ак. гит .028 Ernie Ball Inc. P01428";"116508";"P01428";"Ernie Ball Inc.";"есть";"48";
@@ -11833,7 +11836,7 @@
 "Струны для акустической гитары 10-50 Ernie Ball Inc. P02047";"116390";"P02047";"Ernie Ball Inc.";"нет";"348";
 "Струны для акустической гитары 10-50 Ernie Ball Inc. P02080";"125034";"P02080";"Ernie Ball Inc.";"есть";"594";
 "Струны для акустической гитары 10-50 Ernie Ball Inc. P02090";"125035";"P02090";"Ernie Ball Inc.";"есть";"594";
-"Струны для акустической гитары 10-50 Ernie Ball Inc. P02150";"116395";"P02150";"Ernie Ball Inc.";"есть";"276";
+"Струны для акустической гитары 10-50 Ernie Ball Inc. P02150";"116395";"P02150";"Ernie Ball Inc.";"нет";"276";
 "Струны для акустической гитары 10-50 Ernie Ball Inc. P02160";"116481";"P02160";"Ernie Ball Inc.";"нет";"684";
 "Струны для акустической гитары 10-50 Ernie Ball Inc. P02560";"102993";"P02560";"Ernie Ball Inc.";"есть";"684";
 "Струны для акустической гитары 10-50 Ernie Ball Inc. P02570";"103020";"P02570";"Ernie Ball Inc.";"нет";"336";
@@ -14214,7 +14217,7 @@
 "Усилительный комплект YAMAHA STAGEPAS 150M";"114151";"STAGEPAS 150M";"YAMAHA";"нет";"19713";
 "Усилительный комплект YAMAHA STAGEPAS 250M";"114152";"STAGEPAS 250M";"YAMAHA";"нет";"30234";
 "Усилительный комплект YAMAHA STAGEPAS 300-";"109503";"STAGEPAS 300-";"YAMAHA";"нет";"0,01";
-"Усилительный комплект YAMAHA STAGEPAS 400i";"101846";"STAGEPAS 400i";"YAMAHA";"нет";"31875";
+"Усилительный комплект YAMAHA STAGEPAS 400i";"101846";"STAGEPAS 400i";"YAMAHA";"есть";"31875";
 "Усилительный комплект YAMAHA STAGEPAS 500-";"121854";"STAGEPAS 500-";"YAMAHA";"нет";"47061";
 "Усилительный комплект YAMAHA STAGEPAS 600i";"101847";"STAGEPAS 600i";"YAMAHA";"нет";"45723";
 "Усилительный пульт KUSTOM KPM 4080-";"117137";"KPM 4080-";"KUSTOM";"нет";"5022";
@@ -14837,7 +14840,7 @@
 "Чехол для классической гитары Stagg STB-1 C3";"123109";"STB-1 C3";"Stagg";"нет";"300";
 "Чехол для классической гитары Stagg STB-10 C";"123119";"STB-10 C";"Stagg";"нет";"870";
 "Чехол для классической гитары Stagg STB-10 C PACK";"123114";"STB-10 C PACK";"Stagg";"нет";"786";
-"Чехол для классической гитары Stagg STB-10 C3";"123118";"STB-10 C3";"Stagg";"есть";"648";
+"Чехол для классической гитары Stagg STB-10 C3";"123118";"STB-10 C3";"Stagg";"нет";"648";
 "Чехол для классической гитары Stagg STB-5 C";"114334";"STB-5 C";"Stagg";"нет";"420";
 "Чехол для классической гитары Stagg STB-GEN 10 C";"123130";"STB-GEN 10 C";"Stagg";"нет";"756";
 "Чехол для классической гитары Stagg STB-GEN 10 C3";"123129";"STB-GEN 10 C3";"Stagg";"нет";"732";
@@ -14880,7 +14883,7 @@
 "Чехол для синтезатора CANTO PDK PSR-S770/970";"125690";"PDK PSR-S770/970";"CANTO";"нет";"2571";
 "Чехол для синтезатора CANTO SKB11";"125691";"SKB11";"CANTO";"есть";"2784";
 "Чехол для синтезатора On-Stage Gear KDA7088B";"102472";"KDA7088B";"On-Stage Gear";"есть";"432";
-"Чехол для синтезатора On-Stage Gear KDA7088G";"102473";"KDA7088G";"On-Stage Gear";"нет";"432";
+"Чехол для синтезатора On-Stage Gear KDA7088G";"102473";"KDA7088G";"On-Stage Gear";"есть";"432";
 "Чехол для синтезатора On-Stage Stands KDA7061B";"102470";"KDA7061B";"On-Stage Stands";"есть";"354";
 "Чехол для синтезатора On-Stage Stands KDA7061G";"102471";"KDA7061G";"On-Stage Stands";"есть";"354";
 "Чехол для синтезатора Stagg K10-097";"123233";"K10-097";"Stagg";"нет";"732";
@@ -15301,7 +15304,7 @@
 "Электроакустическая гитара YAMAHA FJX730SC BL-";"119747";"FJX730SC BL-";"YAMAHA";"нет";"24501";
 "Электроакустическая гитара YAMAHA FJX730SC BS-";"119748";"FJX730SC BS-";"YAMAHA";"нет";"24501";
 "Электроакустическая гитара YAMAHA FSX315C NT";"125971";"FSX315C NT";"YAMAHA";"нет";"7584";
-"Электроакустическая гитара YAMAHA FSX315C TBS";"126239";"FSX315C TBS";"YAMAHA";"есть";"7584";
+"Электроакустическая гитара YAMAHA FSX315C TBS";"126239";"FSX315C TBS";"YAMAHA";"нет";"7584";
 "Электроакустическая гитара YAMAHA FSX720SC BL";"105170";"FSX720SC BL";"YAMAHA";"нет";"17178";
 "Электроакустическая гитара YAMAHA FSX720SC BSB-";"119749";"FSX720SC BSB-";"YAMAHA";"нет";"19014";
 "Электроакустическая гитара YAMAHA FSX720SC-";"115313";"FSX720SC-";"YAMAHA";"нет";"18993";
@@ -15627,7 +15630,7 @@
 "Электрогитара YAMAHA RS420 BLACK STEEL";"105058";"RS420 BLACK STEEL";"YAMAHA";"нет";"16566";
 "Электрогитара YAMAHA RS420 FACTORY BLUE";"105237";"RS420 FACTORY BLUE";"YAMAHA";"нет";"16815";
 "Электрогитара YAMAHA RS420 FIRED RED";"105236";"RS420 FIRED RED";"YAMAHA";"нет";"16566";
-"Электрогитара YAMAHA RS420 MAYA GOLD";"124725";"RS420 MAYA GOLD";"YAMAHA";"есть";"16566";
+"Электрогитара YAMAHA RS420 MAYA GOLD";"124725";"RS420 MAYA GOLD";"YAMAHA";"нет";"16566";
 "Электрогитара YAMAHA RS502 BILLET GREEN";"105238";"RS502 BILLET GREEN";"YAMAHA";"нет";"21231";
 "Электрогитара YAMAHA RS502 SHOP BLACK";"105059";"RS502 SHOP BLACK";"YAMAHA";"нет";"21231";
 "Электрогитара YAMAHA RS502T BOWDEN GREEN";"105239";"RS502T BOWDEN GREEN";"YAMAHA";"нет";"22863";
